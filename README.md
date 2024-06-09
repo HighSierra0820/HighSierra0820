@@ -43,7 +43,7 @@
 
 <ul>
     <li>aliases: <i>Sierra</i> / <i>High Sierra</i> / <i>HighSierra<a href="https://en.wikipedia.org/wiki/Orangestar">0820</a></i></li>
-    <li>currently majoring in Information Security at HIT
+    <li>majoring in InfoSec at HIT
 </ul>
 <br>
 
